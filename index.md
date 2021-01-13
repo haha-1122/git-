@@ -41,7 +41,15 @@
 - git merge branchName
 
         현재 작업 환경에 branchName의 작업환경을 병합시킨다. git log --graph --all --decorate 를 통해 그래프를 볼 수도 있다.
+-git merge -D branchName
+
+        다 쓴 브랜치를 제거한다.
 
 - git merge collution
 
         m 
+
+- git rebase branchName
+
+        작업환경을 병합할 때, merge와 다르게 한줄로 병합하는 기능
+
