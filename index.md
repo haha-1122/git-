@@ -45,7 +45,7 @@
 
         다 쓴 브랜치를 제거한다.
 
-- git merge collution
+- git merge conflict
 
         m 
 
